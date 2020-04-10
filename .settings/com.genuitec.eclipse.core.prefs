@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+validator.Checked=src,config,WebRoot,.settings,.project,.classpath
+validator.Revalidate=true
+validator.Unchecked=
