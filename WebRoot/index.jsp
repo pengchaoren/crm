@@ -54,7 +54,7 @@
     <!-- 底部 -->
     <div data-options="region:'south',split:true" style="height:30px;">
     	<div id="copyrightDiv" style="text-align: center;">
-    		彭超个人开发&copy;版权所有
+    		个人开发&copy;版权所有
     	</div>
     </div>   
     
